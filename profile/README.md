@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Late.js
+latejs
 </h1>
 <!-- <p align="center">
 Frontend tooling.
